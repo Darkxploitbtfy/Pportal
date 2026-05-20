@@ -231,7 +231,7 @@ export function PairingPortal() {
                         <line x1="6" y1="6" x2="6.01" y2="6" />
                         <line x1="6" y1="18" x2="6.01" y2="18" />
                       </svg>
-                      <span style={{ fontSize: 12, fontWeight: 600 }}>Node {s}</span>
+                      <span style={{ fontSize: 12, fontWeight: 600 }}>Server {s}</span>
                     </button>
                   ))}
                 </div>
